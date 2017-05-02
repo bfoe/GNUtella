@@ -5,10 +5,10 @@ this is NOT about the former P2P network protocol
 but about a sweet spread for your breakfast (or what ever)
 easy to produce, inexpensive and OPEN SOURCE ;)
 ## Ingredients:
-- fresh cream (~200ml)
-- sugar (~200g)
+- fresh cream (~100ml)
+- sugar (~100g)
 - butter (~100g)
-- unsweetened cocoa powder (3 tablespoons)
+- unsweetened cocoa powder (4 tablespoons)
 - peanut butter (~100g)
 ## Instructions:
 - mix cream, sugar and butter
